@@ -8,22 +8,28 @@ html {
 
 body {
     background-color: rgb(173, 216, 230);
+    border: 5px double rgb(3, 85, 105);
+    width: 350px;
+    margin: 8px auto;
+    padding: 10px;
 }
 
 h1 {
     text-align: center;
     color: black;
+    width: 210px;
+    margin: 8px auto;
 }
 
 ul {
     text-align: center;
     list-style-type: none;
     padding-inline-start: 0px;
+    margin-bottom: 0px;
 }
 
 li {
-    padding-top: 5px;
-    padding-bottom: 5px;
+    margin: 8px;
 }
 
 a {
